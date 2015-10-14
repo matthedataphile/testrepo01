@@ -4,4 +4,5 @@ I am not commiting via sourcetree
 I am editing this at the same time
 now I overwrote the commit from gh
 and I am manipulating the same line from st
+now on dev while with st
 
