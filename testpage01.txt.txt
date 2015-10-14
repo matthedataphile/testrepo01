@@ -5,4 +5,5 @@ I am editing this at the same time
 now I overwrote the commit from gh
 and I am manipulating the same line from st
 now on dev while with st
+lets continue with the dev after having created two features 
 
